@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-React/static/css/main.346148bc.css",
+    "main.js": "/Personal-Portfolio-React/static/js/main.5d7a0acc.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio-React/static/js/787.1ed0c42c.chunk.js",
+    "static/media/AkshitJain_VITChennai (1).pdf": "/Personal-Portfolio-React/static/media/AkshitJain_VITChennai (1).7147b9b529337d09e3aa.pdf",
+    "static/media/1684996075214 (1).jpeg": "/Personal-Portfolio-React/static/media/1684996075214 (1).6e09b57d2099c754543a.jpeg",
+    "index.html": "/Personal-Portfolio-React/index.html",
+    "main.346148bc.css.map": "/Personal-Portfolio-React/static/css/main.346148bc.css.map",
+    "main.5d7a0acc.js.map": "/Personal-Portfolio-React/static/js/main.5d7a0acc.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio-React/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.346148bc.css",
+    "static/js/main.5d7a0acc.js"
+  ]
+}
